@@ -142,6 +142,17 @@
         "mp3Stream": "https://ch01.cdn.eurozet.pl/chi-net.mp3",
         "aacStream": "",
         "imageUrl": "https://i.imgur.com/bFO0NCE.png"
+      },
+      {
+        "id": "PL14",
+        "name": "Twoja Polska Stacja",
+        "country": "Polska",
+        "description": "Największe poslkie przeboje na 101,9 FM w Częstochowie",
+        "genre": "",
+        "frequency": 101.9,
+        "mp3Stream": "https://sluchaj2.radiopark.biz.pl:8443/twojapolskastacja",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL14.png"
       }
     ]
   }
